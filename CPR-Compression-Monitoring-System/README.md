@@ -1,4 +1,5 @@
 # CPR Compression Monitoring System 🚑
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An IoT-based system using **Arduino Uno**, **Ultrasonic sensor**, and **Bluetooth (HC-05)** to monitor chest compressions during CPR training. Visual feedback is provided in real-time using a custom-built mobile app created with **MIT App Inventor**.
 
