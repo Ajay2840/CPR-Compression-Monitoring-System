@@ -164,7 +164,7 @@ void loop() {
 4. After 60 seconds, session ends and data resets.
 
 
-## 📌 Authors
+## 📌 Author
 
 - Pulagam Ajay Kumar Reddy (B22EC007)
 
@@ -172,7 +172,7 @@ void loop() {
 ## 📚 References
 
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
-- [DHT11 Datasheet](https://components101.com/sensors/dht11-temperature-sensor)
+- [HC - SR04] ( https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
 - [HC-05 Module Guide](https://lastminuteengineers.com/bluetooth-module-arduino-tutorial)
 
 
