@@ -150,7 +150,7 @@ void loop() {
 
   delay(100);
 }
-
+```
 
 ## Mobile App
 - Built using **MIT App Inventor**
