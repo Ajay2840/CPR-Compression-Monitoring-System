@@ -1,0 +1,25 @@
+# Ignore compiled files
+*.hex
+*.elf
+
+# Arduino build folder (if used)
+build/
+*.bin
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# App Inventor project backups
+*.aia.bak
+
+# Logs
+*.log
