@@ -172,7 +172,7 @@ void loop() {
 ## 📚 References
 
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
-- [HC - SR04] ( https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
+- [HC - SR04]( https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
 - [HC-05 Module Guide](https://lastminuteengineers.com/bluetooth-module-arduino-tutorial)
 
 
