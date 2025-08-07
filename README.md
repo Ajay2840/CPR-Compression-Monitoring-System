@@ -20,6 +20,11 @@ An IoT-based system using **Arduino Uno**, **Ultrasonic sensor**, and **Bluetoot
 
 ## 🛠️ Circuit Overview
 
+The following is the circuit diagram for the project:
+
+![Circuit Diagram](circuit_image.png)
+
+
 ### 🔹 Ultrasonic Sensor (HC-SR04)
 - **VCC** → 5V  
 - **GND** → GND  
